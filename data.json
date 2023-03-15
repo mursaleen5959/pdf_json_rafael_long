@@ -1,0 +1,168 @@
+{
+   "quotation_header":[
+      {
+         "quote_reference":"RKDS1223679",
+         "date":"21/02/2023"
+      }
+   ],
+   "your_details":[
+      {
+         "Name":"Ian Arch",
+         "Address":"29 Bronescombe Close\nPenryn\nCornwall\nTR10 8LE",
+         "Telephone":"01326373108",
+         "Email":"ian@karenjacksondesign.com"
+      }
+   ],
+   "our_details":[
+      {
+         "Dealer":"RK Doors",
+         "Salesperson":"Ian Woodman",
+         "Address":"RK Doors\nSt Clement\nCornwall\nTruro",
+         "Telephone":"01872 12121588",
+         "Email":"sales@rkdoorsystems.co.uk"
+      }
+   ],
+   "quote_at_a_glance":[
+      {
+         "Profile":"Entre",
+         "standar_price":"£4578.00",
+         "Door Model":"RK1500",
+         "Overall size":"2500x3000mm",
+         "Door size":"1500x2500mm",
+         "Outside frame":"RAL 2787",
+         "Outside door":"RAL 2787",
+         "Inside frame":"RAL 4001",
+         "Inside door":"RAL 4001",
+         "Accessories & Handles":"£960.00",
+         "Discount":"-",
+         "Delivery":"£135.00",
+         "Installation":"-",
+         "VAT 20%":"£362.23",
+         "TOTAL":"£12400.23"
+      }
+   ],
+   "images":[
+      {
+         "outside_image":"src/door.png",
+         "outside_handle_image":"src/pipe.png",
+         "inside_handle_image":"src/cropped.png",
+         "exterior_view_image":"src/black_door1.png",
+         "interior_view_image":"src/black_door2.png"
+      }
+   ],
+   "profile_specifications":[
+      {
+         "Profile":"Entre",
+         "U-Value":"0.72 W/m2 K",
+         "Glazing":"69mm triple glazed",
+         "Panel Thickness":"75mm",
+         "Water tightness":"Class 5A",
+         "Wind load resistance":"Class C2",
+         "Air permeability":"Class 4",
+         "Thermal transmittance":"0.90W/m2 K",
+         "Sound insulation":"42dB",
+         "prof_spec_images":[
+            {
+               "image1":"src/page4img1.png",
+               "image2":"src/page4img2.png"
+            }
+         ]
+      }
+   ],
+   "quote_accesories":[
+      {
+         "profile":["RK7090","£8440.00"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["RK7090","£8440.00"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["RK7090","£8440.00"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["No","-"],
+         "door_colour_surcharge":["No","-"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["No","-"],
+         "door_frame_colour_surcharge":["No","-"],
+         "door_colour_surcharge":["No","-"],
+         "lh_sidelight_type":["No","-"]
+      },
+      {
+         "profile":["RK7090","£8440.00"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","-"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["No","-"],
+         "door_colour_surcharge":["No","-"],
+         "lh_sidelight_type":["No","-"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["No","-"],
+         "door_colour_surcharge":["No","-"],
+         "lh_sidelight_type":["No","-"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      },
+      {
+         "profile":["No","-"],
+         "glass_panel":["SOLID PANEL","-"],
+         "door_frame_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£220.00"],
+         "door_colour_surcharge":["STANDARD RK COLOUR / STD RK COLOUR (DIFFER TO OUT)","£340.00"],
+         "lh_sidelight_type":["SATINATO OBSCURE","£1580.00"]
+      }
+   ],
+   "quote_accesories_total":[
+      {
+         "Discount":"-",
+         "Delivery":"£135.00",
+         "Installation":"-",
+         "VAT":"20%",
+         "VAT_value" : "£362.23",
+         "Total":"£12,400.23"
+      }
+   ],
+   "quote_accesories_footer":[
+      {
+         "foot_img" : "src/footimg.png",
+         "Lead time" : "10 Weeks",
+         "Weight":"377 Kg"
+      }
+   ]
+}
